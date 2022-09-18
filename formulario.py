@@ -2,7 +2,7 @@ resposta1 = []
 resposta2 = []
 resposta3 = []
 resposta4 = []
-print("Vamos ver se você esta com  fome")
+print("Vamos ver se você esta com fome")
 print("---------------------------------")
 opt = input("\ndigite aqui: ").upper()
 resposta = "S"
